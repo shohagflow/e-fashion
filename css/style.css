@@ -1,0 +1,113 @@
+
+/*============================navbar==============================*/
+.hero{
+   background:white;
+   width: 100%;
+   height: 60px;
+   display: flex;
+}
+ul{
+    list-style: none;
+}
+.nave{
+    display: flex;
+    align-items: center;
+    padding:20px 8%;
+}
+.nave2{
+    display: flex;
+    align-items: center;
+    padding:20px 11%;
+}
+.nave ul{
+    flex: 1;
+    text-align: center;  
+}
+.nave ul li{
+    display: inline-block;
+    margin: 0 20px;
+   
+}
+.nave2 ul{
+    flex: 1;
+    text-align: center;  
+}
+.nave2 ul li{
+    display: inline-block;
+    margin: 0 20px;
+   
+}
+.nave2 ul li a{
+    text-decoration: none;
+    color: rgb(0, 7, 14);
+}
+.nave ul li a{
+    text-decoration: none;
+    color: rgb(0, 7, 14);
+}
+/*=======================banner=================*/
+.banner-parent{
+    background-image: url(../img/banner-1.png);
+    height: 700px; 
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner-right{
+    padding: 175px 0px 0px 600px;
+}
+.banner-right li a{
+    color: black;
+    padding: 10px;
+}
+.banner-link{  
+    padding: 30px 0px 46px 0px;
+    display: inline-block;
+}
+.hhh:hover{
+    background-color: black;
+    color: aliceblue;
+
+}
+/*==============================gallery-top===============*/
+.col-4{
+    position: relative;
+}
+.img p{
+    position: absolute;
+    padding-top: 260px;
+    padding-left: 53px;
+    font-size: large;
+    font-style: italic;
+    z-index: 1;
+    font-size: 10px;
+}
+.jackpot {
+    padding-left: 160px;
+    padding-top: 155px;
+}
+.jackpot2{
+    padding-top: 63px;
+    padding-left: 30px;
+}
+.glass{
+    font-style: italic;
+    font-size: 10px;
+    padding: 188px 9px 0px 38px;
+} 
+/*=============================banner2=======================*/
+.contant{
+    padding: 46px 1px 1px 590px;
+}
+/*================================gallery================*/
+
+.title{
+    text-align: center;
+}
+/*===============================banner3=====================*/
+
+
+
+
+  
